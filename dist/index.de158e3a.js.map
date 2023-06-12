@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,MAAM,IAAI,OAAO;AAEvB,QAAQ,IAAI","sources":["src/main.js"],"sourcesContent":["const div = dom.create(\"<div><span>2a2a</span></div>\");\n\nconsole.log(div);\n"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
