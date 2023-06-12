@@ -1,5 +1,5 @@
 const div = dom.create("<div>new div</div>");
-
+const test = dom.find("#test");
 console.log(div);
 
 dom.after(test, div);
